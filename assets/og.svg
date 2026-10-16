@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Crystal Kizor — architect, designer and builder for hot climates">
+  <rect width="1200" height="630" fill="#F5EFE5"/>
+
+  <g fill="none" stroke="#2C4234" stroke-width="2" opacity=".20">
+    <path d="M790 630 V470 a220 220 0 0 1 440 0 V630"/>
+    <path d="M860 630 V500 a150 150 0 0 1 300 0 V630"/>
+    <path d="M925 630 V540 a85 85 0 0 1 170 0 V630"/>
+    <path d="M0 630 H1200"/>
+  </g>
+
+  <g fill="none" stroke="#BC5A2E" stroke-width="2.4">
+    <circle cx="1010" cy="150" r="44"/>
+    <path d="M1010 106 v88 M966 150 h88"/>
+  </g>
+
+  <text x="80" y="104" font-family="Inter,Arial,sans-serif" font-size="22" letter-spacing="6" font-weight="600" fill="#8C3C19">CRYSTAL KIZOR</text>
+  <line x1="80" y1="138" x2="360" y2="138" stroke="#191510" stroke-width="1.5" opacity=".18"/>
+  <text x="80" y="176" font-family="Inter,Arial,sans-serif" font-size="19" letter-spacing="3.5" font-weight="600" fill="#6F6555">ARCHITECT · DESIGNER · EDUCATOR · BUILDER</text>
+
+  <text x="78" y="470" font-family="Georgia,serif" font-size="62" font-weight="700" fill="#191510">I design for how we live</text>
+  <text x="78" y="552" font-family="Georgia,serif" font-size="62" font-weight="700" fill="#191510">in a warming world.</text>
+</svg>
