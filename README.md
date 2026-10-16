@@ -13,8 +13,8 @@ next step for every visitor.
 > Crystal Kizor logo/wordmark, brand logos, project/brand imagery, links) did not get
 > to me. There is therefore **no logo and no real photography** in this submission.
 > The wordmark is a styled text treatment, brand marks are labelled chips, and all
-> imagery is **temporary stock** standing in for final assets — flagged in the UI
-> (hero caption + footer: *"Temporary stock imagery — final photography to replace"*).
+> imagery is **temporary stock** standing in for final assets — marked only in code
+> comments, not in the visible UI.
 > To swap in real assets, see *Replacing placeholders*.
 
 ---
