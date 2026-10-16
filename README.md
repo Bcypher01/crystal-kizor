@@ -4,8 +4,7 @@ A premium, fast, hospitable one-pager that brings Crystal Kizor's seven brands a
 initiatives together under one personal brand — with a clear hierarchy and a clear
 next step for every visitor.
 
-- **Chosen direction — 03 Tropical Sanctuary:** `index.html` (self-contained; inline CSS + vanilla JS)
-- **Explorations:** `directions/index.html` picker + `direction-01-terra-editorial.html`, `direction-02-monolith.html`, `direction-03-sanctuary.html`
+- **Live page:** `index.html` (self-contained; inline CSS + vanilla JS)
 - **Part 2 — AI product thinking:** below (≤300 words)
 - **Part 3 — analytics & improvement:** below
 - **Submission note:** below
@@ -47,13 +46,9 @@ This does three things a flat list can't: it **ranks** the brands (Studio COKA g
 full flagship section), it **connects** them (one shared philosophy), and it gives **AKO
 Alliance and Alive and Free** a home as commitments rather than awkward add-ons.
 
-### Why this direction — 03 Tropical Sanctuary
+### Design direction — Tropical Sanctuary
 
-Three directions were wired with the same content and stock (`directions/` picker):
-01 Terra Editorial (Fraunces + Inter, premium editorial), 02 Concrete Monolith
-(Archivo + Space Grotesk + Plex Mono, brutalist), **03 Tropical Sanctuary (chosen)**.
-Sanctuary won because the thesis is about *comfort without excess* — the design should
-feel like the buildings: calm, shaded, breathable. Cream `#FBF6EC`, deep forest
+The thesis is about *comfort without excess* — the design feels like the buildings it celebrates: calm, shaded, breathable. Cream `#FBF6EC`, deep forest
 `#1C3329`, clay `#C57A52`, sage and sand; arched image openings (shade/veranda);
 generous whitespace; hospitality over monumentality. It flatters interiors and
 furniture (ELEvated), keeps education approachable (TEA), and suits the faith/youth
@@ -125,9 +120,6 @@ certification; labelled guidance + licensed-professional referral. TEA-grounding
 invented standards. Plans encrypted, never trained on, clear retention. Rate limits control
 cost; hot-climate scope stated. *(~215 words)*
 
-> The candidate's email-ready version of Parts 2 & 3 lives in
-> [`written-responses.md`](./written-responses.md) for direct linking.
-
 ---
 
 ## Part 3 — Analytics & improvement
@@ -178,7 +170,6 @@ the documented slots below.
 # from this folder
 python3 -m http.server 4321
 # open http://localhost:4321
-# concepts: http://localhost:4321/directions/index.html
 ```
 
 ## Deploy
